@@ -1,0 +1,4 @@
+a=input("enter the namo")
+b=input("enter the namooo")
+sum=a+b
+print(sum)
