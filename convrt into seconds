@@ -1,0 +1,3 @@
+a=int(input("enter the tym"))
+b=a*60
+print(b)
